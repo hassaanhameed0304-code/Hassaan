@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Hassaan's GitHub Banner">
+  <img src="assets/profile banner.png" width="100%" alt="Hassaan's GitHub Banner">
 </p>
 
 # Hey, I'm Hassaan! 👋
