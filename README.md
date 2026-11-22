@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Cyber Terminal_ Learn, Build, Explore.png" width="100%" alt="Hassaan's GitHub Banner">
+</p>
+
 # Hey, I'm Hassaan! 👋
 
 ### Computer Science Student | Tech Enthusiast | Aspiring Developer
