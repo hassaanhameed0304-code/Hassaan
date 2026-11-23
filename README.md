@@ -24,7 +24,6 @@ I'm still exploring different areas of Computer Science and figuring out where I
 **Programming Languages**
 - C
 - C++
-- Python
 
 **Exploring**
 - Linux
@@ -41,24 +40,24 @@ I'm still exploring different areas of Computer Science and figuring out where I
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=22c55e&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhassaanhameed0304--code&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=22c55e&logo=github" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hassaanhameed0304-code&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaanhameed0304-code&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaanhameed0304-code&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hassaanhameed0304-code&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ### 🤝 Let's Connect
