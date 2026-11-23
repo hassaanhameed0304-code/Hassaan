@@ -40,8 +40,9 @@ I'm still exploring different areas of Computer Science and figuring out where I
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhassaanhameed0304--code&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=22c55e&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhassaanhameed0304-code&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=22c55e&logo=github" />
 </p>
+
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=hassaanhameed0304-code&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
